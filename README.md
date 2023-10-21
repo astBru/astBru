@@ -1,0 +1,3 @@
+- 🔭 I’m currently working on publishing a website via GitHub pages
+- 💬 Ask me about HTML
+- 📫 Reach me via G-Mail
